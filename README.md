@@ -15,7 +15,7 @@ A sleek, responsive e-commerce UI inspired by Apple, built using React, Vite, an
 
 ## Live Demo
 
-[Click here to view the demo](#)
+[Click here to view the demo](https://apple-ui-clone-chi.vercel.app/)
 
 ## Screenshots
 
