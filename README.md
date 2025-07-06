@@ -54,6 +54,16 @@ cd apple-ui-clone
 npm install
 npm run dev
 ```
+
+## Test Login Credentials
+
+To test the login functionality of this Apple-style e-commerce UI:
+
+- **Email:** `apple@user.com`  
+- **Password:** `password123`  
+
+Simply click the **"Purchase Now"** button on the homepage. If you're not logged in, you’ll be redirected to the login page automatically. After logging in, you'll be taken to the products page.
+
 ## Author 
 
 -Dana Mazen
