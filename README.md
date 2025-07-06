@@ -49,11 +49,10 @@ This project helped me strengthen my frontend development skills by working with
 Clone the repository:
 
 ```bash
-git clone 
-cd apple-ecommerce
+git clone https://github.com/Dana-Mazen/apple-ui-clone.git
+cd apple-ui-clone
 npm install
 npm run dev
-
 ```
 ## Author 
 
